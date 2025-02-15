@@ -1,5 +1,5 @@
 # UDFF-multi-center-study
-matlab code for data analysis to generate tables and figures in UDFF paper submitted to Radiology Advances
+matlab code for data analysis to generate tables and figures in UDFF paper submitted to Journal of Ultrasound in Medicine
 
 results.mat contains age,sex,bmi,udff, and pdff of all participants in 4-center study (randomized)
 
